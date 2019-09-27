@@ -1,0 +1,10 @@
+{
+    "name": "Front/Article",
+    "authors": [
+        {
+            "name": "pratima",
+            "email": "adhipratimaa@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,13 @@
+{
+    "name": "accessdigit/school",
+    "description": "CRUD Operation for board an program",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nabin Kumar Singh",
+            "email": "touhnabin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
